@@ -1,5 +1,6 @@
 <template>
   <div>
+
     <h2 class="text-3xl font-bold mb-8">Checkout</h2>
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
       <div class="bg-white p-6 rounded-lg shadow">

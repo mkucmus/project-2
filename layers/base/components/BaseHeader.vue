@@ -7,7 +7,6 @@
           <MainNav />
         </div>
         <div class="flex items-center space-x-4">
-          <AccountWidget />
           <CartWidget />
         </div>
       </div>
